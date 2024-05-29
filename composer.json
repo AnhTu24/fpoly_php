@@ -1,0 +1,9 @@
+{
+    "name": "admin/fpoly_php",
+    "autoload": {
+        "psr-4": {
+            "Admin\\FpolyPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
